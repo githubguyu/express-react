@@ -55,7 +55,6 @@ class Dashboard extends React.Component{
 				component:User
 			}
 		]
-		// console.log(this.props.chatNews)
 		const number = this.props.chatNews.unread
         return(
             <div>

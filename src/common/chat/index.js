@@ -15,7 +15,6 @@ import './index.less'
         text:'',
         msg:[],
         name:'',
-        isGrid:false
     }
     componentDidMount(){
 		if(!this.props.chatNews.chatmsg.length){
